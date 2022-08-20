@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Basic Structure programe
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on facebook- www.facebook.com/pritamsaha.turja
-instagram - _pritamsaha
 
 <!---
 pritam115/pritam115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
