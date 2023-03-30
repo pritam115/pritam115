@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pritam115
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Basic Structure programe
+- 🌱 I’m currently learning Basic Structure programe and Object Oriented Programming 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on facebook- www.facebook.com/pritamsaha.turja
 
