@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pritam115
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Machhine learning with python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working as a SQA Engineer(Intern)
+- 💞️ I’m looking to collaborate on Software Quality Assurance team
 - 📫 How to reach me on facebook- www.facebook.com/pritamsaha.turja
 
 <!---
